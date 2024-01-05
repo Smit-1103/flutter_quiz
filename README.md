@@ -19,9 +19,10 @@ Ready to Play?
 	- to run on device : `flutter run -d <device-id>`
 		> to list available devices :  `flutter devices`
 
-Want a Sneak Peek?
-Check out the quiz in action:
-<video controls src="/assets/demo.mp4" width="500" height="300"></video>
+# Check out the quiz in action:
+
+https://github.com/Smit-1103/flutter_quiz/assets/112495701/d15c6e53-9cc0-49de-b707-c6080a22e5a8
+
 
 Join the Community:
 
