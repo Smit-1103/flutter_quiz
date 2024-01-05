@@ -23,9 +23,4 @@ Ready to Play?
 
 https://github.com/Smit-1103/flutter_quiz/assets/112495701/d15c6e53-9cc0-49de-b707-c6080a22e5a8
 
-
-Join the Community:
-
-We're open to feedback and contributions! Feel free to share your thoughts, ideas, and code through GitHub issues and pull requests.
-
 Let's Play and Learn Together!
