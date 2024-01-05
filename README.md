@@ -1,16 +1,29 @@
-# flutter_quiz
 
-A new Flutter project.
+
+# flutter_quiz: Put Your Knowledge to the Test
+
+Challenge yourself with this interactive quiz app! Answer questions from a variety of categories, test your skills, and learn something new along the way.
+
+## Features:
+1. Shuffle Up! Answers are randomly presented to keep you on your toes and prevent lucky guesses.
+2. Easy Review: See all your responses in a clear, scrollable view after completing the quiz.
+3. Seamless Experience: Built with Flutter for smooth performance and a polished look and feel.
+
+Ready to Play?
 
 ## Getting Started
+1. Clone repository : `git clone https://github.com/Smit-1103/flutter_quiz.git`
+2. Go to repository : `cd flutter_quiz`
+3. Install Dependencies : `flutter pub get`
+4. Select devices or emulators you want to run the app on. 
+	- to run on device : `flutter run -d <device-id>`
+		> to list available devices :  `flutter devices`
 
-This project is a starting point for a Flutter application.
+Want a Sneak Peek?
+Check out the quiz in action: [video_link]
 
-A few resources to get you started if this is your first Flutter project:
+Join the Community:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+We're open to feedback and contributions! Feel free to share your thoughts, ideas, and code through GitHub issues and pull requests.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Let's Play and Learn Together!
